@@ -1,1 +1,2 @@
-# Static_amazon_clone
+Project on static amazon web page
+Made by using HTML and CSS.
